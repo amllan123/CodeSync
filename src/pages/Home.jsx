@@ -72,6 +72,7 @@ joinRoom();
               If you dont have an invite then create . 
               <a   onClick={createNewRoom}   className={`${Styles.createNew}`}   href=""> New room</a>
             </span>
+              <span className={`${Styles.myinfo}`}>Made with ❤️ by Amllan</span>   
           </div>
        </div>
 
