@@ -78,3 +78,10 @@ margin-bottom: 10px;
 color: rgb(57, 180, 0);
 border-color: rgb(57, 180, 0);
 }
+.myinfo{
+    font-size: 20px;
+  
+    color: rgb(155, 155, 155);
+    margin: 10px auto;
+
+}
