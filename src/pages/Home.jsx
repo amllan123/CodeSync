@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+''''''''''import React, { useState } from 'react'
 import Styles from './Home.module.css'
 import {v4 as uuidv4} from 'uuid';
 import toast from 'react-hot-toast';
@@ -70,7 +70,7 @@ joinRoom();
             <span className={`${Styles.createInfo}`} >
 
               If you dont have an invite then create . 
-              <a   onClick={createNewRoom}   className={`${Styles.createNew}`}   href=""> New room</a>
+              <span onClick={createNewRoom}   className={`${Styles.createNew}`} > New room</span>
             </span>
               <span className={`${Styles.myinfo}`}>Made with ❤️ by Amllan</span>   
           </div>
