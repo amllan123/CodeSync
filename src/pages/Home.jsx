@@ -1,4 +1,4 @@
-''''''''''import React, { useState } from 'react'
+import React, { useState } from 'react'
 import Styles from './Home.module.css'
 import {v4 as uuidv4} from 'uuid';
 import toast from 'react-hot-toast';
